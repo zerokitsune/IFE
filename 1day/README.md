@@ -1,6 +1,6 @@
-#第一天
+# 第一天
 
-##WEB与前端
+## WEB与前端
 
 - WEB
 	> web（World Wide Web）即全球广域网，也称为万维网，它是一种基于超文本和HTTP的、全球性的、动态交互的、跨平台的分布式图形信息系统。是建立在Internet上的一种网络服务，为浏览者在Internet上查找和浏览信息提供了图形化的、易于访问的直观界面，其中的文档及超级链接将Internet上的信息节点组织成一个互为关联的网状结构。 ---百度百科
@@ -16,7 +16,7 @@
 
 ***
 
-##w3school
+## w3school
 
 - [w3school](http://www.w3school.com.cn/html/index.asp)
 	+ 知道前端大概包含了__HTML__,__CSS__,__JavaScript__这三个技术
@@ -37,7 +37,7 @@
 
 ***
 
-##github
+## github
 - 开源与开源精神(这个自己百度去吧，唔，博大精深？)
 - [github](https://github.com/)
 	+ 建了一个账号来记录代码和每日成长，[zerokitsune](https://github.com/zerokitsune/IFE)
