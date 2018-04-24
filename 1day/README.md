@@ -19,7 +19,7 @@
 ## w3school
 
 - [w3school](http://www.w3school.com.cn/html/index.asp)
-	+ 知道前端大概包含了__HTML__,__CSS__,__JavaScript__这三个技术
+	+ 知道前端大概包含了 __HTML__ , __CSS__ , __JavaScript__ 这三个技术
 	+ 认识常见标签，如，body,head,div等
 	+ 初步了解“样式”(__Cascading Style Sheets__)的概念，尝试最简单的改变，如，
 	```
